@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: "COinbase\_ Customer Suppro"
+      text: "COinbase\_ Customer Supprot"
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
